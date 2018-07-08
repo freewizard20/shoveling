@@ -2,6 +2,10 @@
 
 ## 센트오에스 설정
 
+yum install libX11
+yum install libXcomposite
+
+
 ### 패키지 매니저 설정 및 관리방법
 
 1. 센트오에스는 레드햇 계열이라 패키지 매니저 yum과 rpm을 사용한다.

@@ -11,6 +11,8 @@
 * pwd : 파일 디렉토리
 * ls : 현재 디렉토리 출력
 * nmcli -d : 이더넷 커넥션 테스트
+* lscpu : 컴퓨터 성능 확인
+
 * 네트워크 연결 : 
 네트워크 컨피겨 파일 - /etc/sysconfig/network-scripts/
 네트워크 인터페이스 온 : ifup
