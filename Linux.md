@@ -11,8 +11,9 @@
 #### Commands
 
 * [Build a rpm package](https://www.thegeekstuff.com/2015/02/rpm-build-package-example/) : `yum install rpm-build`
-* [Custom repo]
-```[examplerepo]
+* [Custom repo](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-use-yum-repositories-on-a-centos-6-vps)
+```
+[examplerepo]
 name=Example Repository
 baseurl=http://mirror.cisp.com/CentOS/6/os/i386
 enabled=1
