@@ -9,6 +9,8 @@
 * curl : 뭐 이것저것 프로토콜 다 됨
 - -X GET/POST/PUT {{url}} : 특정 REST 동작 요청
 - curl -O https://naver.com/download/hello.zip
+- [wget](https://m.blog.naver.com/PostView.nhn?blogId=alkydes&logNo=220593597738&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F) : 설치한다
+
 * pwd : 파일 디렉토리
 * ls : 현재 디렉토리 출력
 * nmcli -d : 이더넷 커넥션 테스트
