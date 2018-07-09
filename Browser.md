@@ -16,6 +16,13 @@
 
 ## Chrome for linux
 
+* yum install chromium.x86_64 으로 다운받을 수 있다
+
+
+
+
+> 퍼페티어에 샌드박스를 연결하려던 삽질
+
 [here](http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html?prefix=Linux_x64/100078/)
 
 sudo mv chrome_sandbox chrome-sandbox
