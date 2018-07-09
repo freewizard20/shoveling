@@ -7,11 +7,10 @@ var test = /.js/;
 console.log(test.exec('hello.js')); // [ '.js', index: 5, input: 'hello.js' ]
 console.log(test.test('ghsd.js')); // true
 console.log(test.test('asdasdas.cpp')); // false
-
-
-## File Systems
-
 ```
+
+## FILE SYSTEMS
+
 const fs = require('fs');
 
 var data = fs.readFileSync('./extract.js', 'utf8');
