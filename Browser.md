@@ -13,3 +13,12 @@
 ## [라이트하우스]()
 
 * 웹사이트 성능 테스트 도구입니다. 다양한 개선 방안을 제시합니다.
+
+## Chrome for linux
+
+[here](http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html?prefix=Linux_x64/100078/)
+
+sudo mv chrome_sandbox chrome-sandbox
+sudo chown root chrome-sandbox
+sudo chmod 4755 chrome-sandbox
+./chrome-wrapper
