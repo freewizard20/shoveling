@@ -6,8 +6,9 @@
 ## 기본 커맨드
 
 * ping 8.8.8.8 : 서버에 요청하고 반응시간 확인하기
-* curl : 리눅스로 REST 실행하기
+* curl : 뭐 이것저것 프로토콜 다 됨
 - -X GET/POST/PUT {{url}} : 특정 REST 동작 요청
+- curl -O https://naver.com/download/hello.zip
 * pwd : 파일 디렉토리
 * ls : 현재 디렉토리 출력
 * nmcli -d : 이더넷 커넥션 테스트
