@@ -31,6 +31,8 @@
 * Fedora, CentOS, Oracle Enterprise
 * Uses .rpm packages.
 * dependencies are important and they are bundled with yum(CentOS)
+* yum install chro 딱 여기까지 한다음에 탭 두번 누르면 검색해준다 !!
+
 
 #### Commands
 
