@@ -3,6 +3,9 @@
 ## 용어사전
 * RHEL : Red Hat Enterprise Linux
 
+## 툴
+- tmux : 여러 tty 전환 가능하게 해주는 프로그램(?)
+
 ## 기본 커맨드
 
 * ping 8.8.8.8 : 서버에 요청하고 반응시간 확인하기
