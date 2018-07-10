@@ -19,6 +19,12 @@
 * 네트워크 연결 : 
 네트워크 컨피겨 파일 - /etc/sysconfig/network-scripts/
 네트워크 인터페이스 온 : ifup
+* top : 프로세스 리스트 및 하드웨어 리소스 정보
+top -u {{username}}
+top -O 
+
+
+
 ## CentOS 핵(버전7)
 * 화면크기 조정
 - vim /etc/default/grub
