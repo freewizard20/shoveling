@@ -4,7 +4,10 @@
 * RHEL : Red Hat Enterprise Linux
 
 ## 툴
-- tmux : 여러 tty 전환 가능하게 해주는 프로그램(?)
+- tmux : 여러 tty 전환 가능하게 해주는 프로그램
+  - tmux new -s {{console name}} : open new terminal
+  - tmux 에서 exit : 터미널 종료
+  **일회용 사용은 가능한데, 제대로 사용하는거 연구 필요**
 
 ## 기본 커맨드
 
