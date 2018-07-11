@@ -28,3 +28,12 @@ fs.readFile('./extract.js', 'utf8', (err,data)=>{
 1. import express from 'express' : npm module import, import as object template
 2. import {square, diag} from './test.js' : import (export function from external file) > use directly!
 3. import * as {{whatever}} from 'lib' : create instance directly as {{whatever}}
+
+## 즉시 실행하는 어노니머스 함수 셋
+```
+({{async}}()=>{
+    
+    // function..
+   
+})();
+```
