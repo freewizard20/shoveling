@@ -6,6 +6,7 @@
 ## git set new url
 
 git remote -v : check current remote origin
+
 git remote set-url origin https://github.com/.... : change git url
 
 ## git merge
