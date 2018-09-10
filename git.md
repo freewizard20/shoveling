@@ -3,6 +3,10 @@
 1. git reset HEAD ~ file : unstage file
 2. git rm -r {{directory}} : stage deleted files
 
+## git set new url
+
+git remote -v : check current remote origin
+git remote set-url origin https://github.com/.... : change git url
 
 ## git merge
 
