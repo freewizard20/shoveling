@@ -5,9 +5,8 @@
 
 ## git set new url
 
-git remote -v : check current remote origin
-
-git remote set-url origin https://github.com/.... : change git url
+1. git remote -v : check current remote origin
+2. git remote set-url origin https://github.com/.... : change git url
 
 ## git merge
 
@@ -15,8 +14,8 @@ git remote set-url origin https://github.com/.... : change git url
 
 ## git config
 
-git config --global user.name "jinhyuk.jeon"
-git config --global user.email "freewizard@freewizard.net"
+1. git config --global user.name "jinhyuk.jeon"
+2. git config --global user.email "freewizard@freewizard.net"
 
 
 
