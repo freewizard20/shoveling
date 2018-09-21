@@ -16,7 +16,9 @@
 - -X GET/POST/PUT {{url}} : 특정 REST 동작 요청
 - curl -O https://naver.com/download/hello.zip
 - [wget](https://m.blog.naver.com/PostView.nhn?blogId=alkydes&logNo=220593597738&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F) : 설치한다
-
+* touch : 파일 새로 생성, 시간 업데이트 등
+  touch <<filename>> : 생성
+  touch -c <<filename>> : 시간 현재로 업데이트
 * pwd : 파일 디렉토리
 * ls : 현재 디렉토리 출력
 * nmcli -d : 이더넷 커넥션 테스트
