@@ -21,7 +21,7 @@
   * touch <<filename>> : 생성
   
   * touch -c <<filename>> : 시간 현재로 업데이트
-  
+* stat {{file}} : 파일 스탯 확인
 * pwd : 파일 디렉토리
 * ls : 현재 디렉토리 출력
 * nmcli -d : 이더넷 커넥션 테스트
