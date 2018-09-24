@@ -1,4 +1,4 @@
-# python
+# pip
 
 ## check module version
 1. pip3 freeze | grep "gym"
