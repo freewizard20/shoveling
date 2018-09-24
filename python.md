@@ -11,3 +11,7 @@
 * int(), float(), round()
 
 ## data structures
+
+
+## OOP
+righteye=lefteye 하면 같은 오브젝트를 포인팅하는거다
