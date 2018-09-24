@@ -1,7 +1,8 @@
 # python cheat sheet
 
 ## import statements
-
+* import graphics >> win=graphics.GraphWin()
+* from grapgics import * >> win = GraphWin()
 
 
 ## basic functions
