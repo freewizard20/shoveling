@@ -8,11 +8,3 @@
 [이오스 앱개발](https://infinitexlabs.com/eos-development-tutorial-part-1/)<br />
 [이오스 앱개발2](https://infinitexlabs.com/eos-development-tutorial-part-2/)<br />
 
-`EOS 1+1`
-
-```
-hello world
-hi me
-```
-  ddasd
-  asdasd
