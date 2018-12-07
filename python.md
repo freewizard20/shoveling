@@ -87,7 +87,7 @@ b = copy.deepcopy(a)
 * `np.random.randint(5)` : 0~4 one number pick
 * `np.random.randint(2,5)` : 2~4 one number pick
 * `np.random.randint(2,5,10)` : 2~4 ten numbers pick
-* `np.random.randint(2,5,(2,5)) : ten numbers pick of [2,5]
+* `np.random.randint(2,5,(2,5))` : ten numbers pick of [2,5]
 * `np.random.randn()` : N(0,1) standard normalized distribution
 ```
 np.random.randn() * sigma + mean # N(mean,sigma^2)
