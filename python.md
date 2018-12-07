@@ -33,15 +33,50 @@ sys.path.append('../..')
 ```
 ## Methods
 * methods return tuples
-* 
+* `def(opic=True, flat)` : default values in method, order is not relevant.
 
-## basic functions
+## basic methods
 * type(3) >> class 'int'
 * integer division "//"
 * int(), float(), round()
 
-## OOP
-righteye=lefteye 하면 같은 오브젝트를 포인팅하는거다
+## Classes
+```
+class Man:
+  def __init__(self,...):
+    self.name = name
+    # we need to initialize all class variables here
+    
+  def hello(self,...):
+```
+
+* usage:
+```
+me = Man("Kim")
+me.hello() # omit the self here
+```
+
+## Pickles
+```
+import pickle
+f = open(‘data.pkl’, ‘wb’)
+pickle.dump({{오브젝트}}, f)
+f = open(‘data.pkl’, ‘rb’)
+{{오브젝트}} = pickle.load(f)
+# objects queued inside pkl file.
+```
+
+## Copy
+```
+import copy
+b = copy.deepcopy(a)
+```
+
+## numpy
+### making numpy arrays
+* `np.array([1,2,3])` : make a array
+* `np.arange(0.5,0,1)` : [0,5) array with 0.1 interval
+
 
 ## Anaconda
 * `conda create --name {{envname}} python=3.6`
