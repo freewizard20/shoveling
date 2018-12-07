@@ -42,3 +42,10 @@ sys.path.append('../..')
 
 ## OOP
 righteye=lefteye 하면 같은 오브젝트를 포인팅하는거다
+
+## Anaconda
+* `conda create --name {{envname}} python=3.6`
+* `conda env list`
+* `source activate {{envname}}`
+* `conda list --explicit > bio-env.txt`
+* `conda env create --file bio-env.txt`
