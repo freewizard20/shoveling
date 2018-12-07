@@ -77,6 +77,10 @@ b = copy.deepcopy(a)
 * `np.array([1,2,3])` : make a array
 * `np.arange(0.5,0,1)` : [0,5) array with 0.1 interval
 
+### Operations
+* `+ - * /` : done by each element
+* np.sum(arr) : list total
+* 
 
 ## Anaconda
 * `conda create --name {{envname}} python=3.6`
