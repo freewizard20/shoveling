@@ -31,6 +31,7 @@ from {{filename}} import {{variables, methods}} # variables are copies not refer
 import sys
 sys.path.append('../..')
 ```
+* run as __main__ : `python3 -m lab.lab2.lab21 # exclude the .py`
 ## Methods
 * methods return tuples
 * `def(opic=True, flat)` : default values in method, order is not relevant.
