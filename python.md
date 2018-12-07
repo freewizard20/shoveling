@@ -1,5 +1,8 @@
 # python cheat sheet
 
+## Basic Data structures
+* `print("{} hello {}".format('jeon',32))`
+
 ## import statements
 * import graphics >> win=graphics.GraphWin()
 * from grapgics import * >> win = GraphWin()
