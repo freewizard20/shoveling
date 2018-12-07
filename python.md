@@ -2,11 +2,18 @@
 
 ## Basic Data structures
 * `print("{} hello {}".format('jeon',32))`
+* type check : `type(10)==int`
+* List : `a = [1,2,3,4,5]` , methods : `a.append(1)` , `del a[2]`
+* Dictionary : `me = {'height : 180'}` , methods : `del me['height']
+* Tuples : `a,b = (10,15)`
+* Sets : `a = {1,2,3,4,5}`, has no orders, methods : `a.add(10)`, `a.discard(10)`
+* Logical operators : not, or, and
 
-## import statements
-* import graphics >> win=graphics.GraphWin()
-* from grapgics import * >> win = GraphWin()
-
+## for statements
+* dictionaries :
+```
+for x in values():
+```
 
 ## basic functions
 * type(3) >> class 'int'
