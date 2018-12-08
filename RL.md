@@ -10,3 +10,5 @@
 
 ## Robotics
 
+## Learning
+* [Human Prior Knowledge for Video Games](https://openreview.net/pdf?id=Hk91SGWR-)
