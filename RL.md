@@ -1,4 +1,8 @@
 # Reinforcement Learning, Organized
 
 ## NN improvements
-* [Residual Neural Nets](https://arxiv.org/abs/1512.03385)
+* [Residual Neural Nets, 2015](https://arxiv.org/abs/1512.03385)
+
+
+## Robotics
+
