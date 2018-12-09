@@ -108,6 +108,9 @@ print(check_output(["ls","."]).decode("utf8")
 * `import pandas as pd`
 * [documentation](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [dataframe](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.DataFrame.html)
+* pandas dataframe to numpy : `df = df.values`
+* numpy to dataframe : `df = pd.DataFrame(np.array([1,2,3]))`
+* interact with CSVs : `df.to_csv('{{filename}}.csv')`, `df = pd.read_csv('{{dirname}}')`
 
 ## Anaconda
 * `conda create --name {{envname}} python=3.6`
