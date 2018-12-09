@@ -106,7 +106,7 @@ print(check_output(["ls","."]).decode("utf8")
 
 ## Pandas
 * `import pandas as pd`
-* 
+* [documentation](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 ## Anaconda
 * `conda create --name {{envname}} python=3.6`
