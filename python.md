@@ -9,6 +9,9 @@
 * Sets : `a = {1,2,3,4,5}`, has no orders, methods : `a.add(10)`, `a.discard(10)`
 * Logical operators : not, or, and
 
+## List
+* `list('ABCD') # ['A','B','C','D']`
+
 ## for statements
 * dictionaries :
 ```
@@ -94,6 +97,16 @@ b = copy.deepcopy(a)
 np.random.randn() * sigma + mean # N(mean,sigma^2)
 np.random.randn(2,4) # pick of [2,4] array
 ```
+
+## Subprocess
+```
+from subprocess import check_output
+print(check_output(["ls","."]).decode("utf8")
+```
+
+## Pandas
+* `import pandas as pd`
+* 
 
 ## Anaconda
 * `conda create --name {{envname}} python=3.6`
