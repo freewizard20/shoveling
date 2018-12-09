@@ -59,6 +59,11 @@ class Man:
 me = Man("Kim")
 me.hello() # omit the self here
 ```
+* toString method
+```
+  def __str__(self):
+    return self.name
+```
 
 ## Pickles
 ```
