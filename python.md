@@ -118,3 +118,6 @@ print(check_output(["ls","."]).decode("utf8")
 * `source activate {{envname}}`
 * `conda list --explicit > bio-env.txt`
 * `conda env create --file bio-env.txt`
+
+## Notable random facts
+* 프린트가 어떻게 될지는 그 오브젝트 안에 구현된 메소드에 따라 달라진다. 어떤건지까지는 정확히 
