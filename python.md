@@ -85,6 +85,7 @@ b = copy.deepcopy(a)
 ### making numpy arrays
 * `np.array([1,2,3])` : make a array
 * `np.arange(0.5,0,1)` : [0,5) array with 0.1 interval
+* `a.reshape(3,3,3)` : reshape array to new dimension
 
 ### Operations
 * `+ - * /` : done by each element
