@@ -91,7 +91,7 @@ b = copy.deepcopy(a)
 * `+ - * /` : done by each element
 * `np.sum(arr)` : list total
 * `np.abs(arr)` : abs
-* `np.maximum(arr1,arr2)` : returns arr3 with max elements
+* `np.maximum(arr1,arr2)` : returns arr3 with max elements // `a.flatten()` : flatten to 1 dim
 
 ### Random
 * `np.random.randint(5)` : 0~4 one number pick
