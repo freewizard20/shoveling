@@ -103,6 +103,15 @@ np.random.randn() * sigma + mean # N(mean,sigma^2)
 np.random.randn(2,4) # pick of [2,4] array
 ```
 
+## Plotting
+```
+import matplotlib.pyplot as plt
+import seaborn as sns
+tips = sns.load_dataset("tips")
+sns.relplot(x="total_bill",y="tip",data=tips)
+plt.show()
+```
+
 ## Subprocess
 ```
 from subprocess import check_output
