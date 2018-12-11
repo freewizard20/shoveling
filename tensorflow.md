@@ -15,4 +15,4 @@ print(sess.run([a,b,c]))
 * `tf.placeholder(tf.float32, [None,3]) # sess.run(out,feed_dict={X:x_data}) can feed any size if size omitted`
 * `tf.Variable(tf.random_normal([3,2])) # make a [3,2] array of random normal distribution`
 * `sess.run(tf.global_variables_initializer()) # needed to use variables in session`
-
+* `tf.reduce_mean(tf.square(hypothesis-Y)) # reduce_mean reduces dim by meaning`
