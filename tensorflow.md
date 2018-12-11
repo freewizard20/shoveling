@@ -12,7 +12,7 @@ print(sess.run([a,b,c]))
 ## Basic
 * `tf.constant('hello world')`
 * `tf.add(a,b) #broadcasts result`
-* `tf.placeholder(tf.float32, [None,3])`
+* `tf.placeholder(tf.float32, [None,3]) # sess.run(out,feed_dict={X:x_data})`
 * `tf.Variable(tf.random_normal([3,2])) # make a [3,2] array of random normal distribution`
 * `sess.run(tf.global_variables_initializer()) # needed to use variables in session`
 
