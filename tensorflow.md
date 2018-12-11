@@ -8,6 +8,7 @@ c = tf.add(a,b)
 sess = tf.Session()
 print(sess.run([a,b,c]))
 ```
+* sess.run을 해야지 값을 채워넣어서 숫자값을 보여주지, 아니면 그냥 빈 골판지 Tensor 오브젝트이다.
 
 ## Basic
 * `tf.constant('hello world')`
