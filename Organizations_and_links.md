@@ -19,4 +19,4 @@
 ## Learn queue
 
 1. [HackMD](https://hackmd.io/)  [github](https://github.com/hackmdio)
-2. 
+2. [AWS-CLI](https://github.com/aws/aws-cli)
