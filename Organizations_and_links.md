@@ -17,6 +17,9 @@
 2. [Hyperledger](https://github.com/hyperledger)
 3. [Corda](https://github.com/corda/corda)
 
+## OS
+1. [Kernel](https://git.kernel.org/)
+
 ## Tools
 1. [Vim](https://github.com/vim)
 
