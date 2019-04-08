@@ -1,6 +1,7 @@
 # Vim
 
-[VIM](https://www.cs.oberlin.edu/~kuperman/help/vim/indenting.html)
+* [VIM user guide](https://www.cs.oberlin.edu/~kuperman/help/vim/indenting.html)
+* [VIM notes](./vim_disclamer.md)
 
 ## .vimrc
 
