@@ -2,6 +2,7 @@
 
 1. git reset HEAD ~ file : unstage file
 2. git rm -r {{directory}} : stage deleted files
+3. git rev-parse HEAD : check current HEAD
 
 ## git set new url
 
