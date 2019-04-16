@@ -17,67 +17,29 @@
 
 1. git checkout --track origin/master
 
-## git merge
-
-
-
 ## git config
 
 1. git config --global user.name "jinhyuk.jeon"
 2. git config --global user.email "freewizard@freewizard.net"
 
+## stage changes
 
-## using git
+1. git add *
+2. git add -u
 
-* basic configs(required on first use)
+## commit changes
 
-`git config --global user.name "{{username}}"`
-    
- `git config --global user.email "{{email}}"`
+1. git commit -m "{{message with commit}}
+2. git commit -m "{{reverting message}}
 
-* stage changes
+## branch management
+1. git branch {{newbranch}}
+2. git checkout {{branch-to-go}}
+3. git checkout -b newbranch // make new branch and checkout at once
 
-`git add *`
-
-* stage deletes also
-
-`git add -u`
-
-* commit changes
-
-`git commit -m "{{message with commit}}"`
-
-* undo commits
-
-`git commit -m "{{reverting message}}`
-
-* make new branch
-
-`git branch {{newbranch}}`
-
-* check all branch lists
-
-`git branch -r`
-
-* move to new branch
-
-`git checkout {{branch-to-go}}`
-
-* merge branches ( first be at branch to receive merge )
-
-`git merge {{branchname}}`
-
-* receive updates from remote
-
-`git pull`
-
-* update changes to remote
-
-`git push origin master`
-
-* update changes to local
-
-`git fetch -p`
+## merge
+1. git merge {{branchname}}
+2. git fetch -p // update branches (?)
 
 
 
