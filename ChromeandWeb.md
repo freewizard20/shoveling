@@ -6,3 +6,6 @@
 # Chrome
 
 ## Chromium
+
+* [Chromium-dev Google Groups](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-dev)
+* [Chromium development git](https://chromium.googlesource.com/chromium/src/)
