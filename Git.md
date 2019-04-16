@@ -9,6 +9,14 @@
 1. git remote -v : check current remote origin
 2. git remote set-url origin https://github.com/.... : change git url
 
+## git compare commits with local/remote
+
+1. git diff master origin/master
+
+## git check branch status
+
+1. git checkout --track origin/master
+
 ## git merge
 
 
