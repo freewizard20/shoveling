@@ -6,12 +6,6 @@
 3. [AWS](https://github.com/aws)
 4. [Facebook](https://github.com/facebook)
 
-## Open Source Software
-1. [Apache Foundation](https://github.com/apache)
-2. [GNU](https://www.gnu.org/)
-3. [Linux Foundation](https://www.linuxfoundation.org)
-4. [Canonical Ubuntu](https://tutorials.ubuntu.com/?_ga=2.93592856.427165394.1554708242-1376224074.1554708242)
-
 ## Blockchain
 1. [Ethereum Foundation](https://github.com/ethereum)
 2. [Hyperledger](https://github.com/hyperledger)
