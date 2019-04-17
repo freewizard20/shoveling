@@ -1,6 +1,11 @@
 # Git essentials
 
 ## git useful links
+1. [git documentation](https://git-scm.com/about)
+2. [git tutorial](https://backlog.com/git-tutorial/kr/)
+
+## unstages and deletes
+
 1. git reset HEAD ~ file : unstage file
 2. git rm -r {{directory}} : stage deleted files
 
