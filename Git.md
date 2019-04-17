@@ -4,10 +4,20 @@
 2. git rm -r {{directory}} : stage deleted files
 3. git rev-parse HEAD : check current HEAD
 
+## git check commit log
+
+1. git log origin/master
+
 ## git set new url
 
 1. git remote -v : check current remote origin
 2. git remote set-url origin https://github.com/.... : change git url
+
+## git refresh with gitignore
+
+1. git rm -r --cached .
+2. git add .
+3. git commit -m ".gitignore fix"
 
 ## git compare commits with local/remote
 
