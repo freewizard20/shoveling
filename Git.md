@@ -1,12 +1,13 @@
 # Git essentials
 
+## git useful links
 1. git reset HEAD ~ file : unstage file
 2. git rm -r {{directory}} : stage deleted files
-3. git rev-parse HEAD : check current HEAD
 
-## git check commit log
-
-1. git log origin/master
+## git check commits
+1. git rev-parse HEAD : check current HEAD
+2. git log origin/master
+3. git log --pretty=format:"%h %s" --graph
 
 ## git set new url
 
