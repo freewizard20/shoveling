@@ -1,4 +1,3 @@
 # README
 
-Simple commands memoed
-
+Simple memoes on trials about everything I do
