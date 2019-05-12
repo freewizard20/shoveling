@@ -5,3 +5,4 @@
 3. youtube premium
 4. a music streaming site
 5. netflix
+6. medium subscription
