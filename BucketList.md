@@ -11,7 +11,7 @@
 8. A galaxy phone with bixby smart home available
 
 ## Things to make
-1. Day time accesser(time log and daily notes)
+1. Day time accessor(time log and daily notes)
 2. Positive quotes and breathing/music/meditation
 3. Blog
 
