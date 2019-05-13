@@ -9,6 +9,7 @@
 6. medium subscription
 7. A chromebook
 8. A galaxy phone with bixby smart home available
+9. grammarly
 
 ## Things to make
 1. Day time accessor(time log and daily notes)
