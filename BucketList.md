@@ -13,4 +13,5 @@
 ## Things to make
 1. Day time accesser(time log and daily notes)
 2. Positive quotes and breathing/music/meditation
+3. Blog
 
