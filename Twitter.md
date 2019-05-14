@@ -51,4 +51,4 @@
 41. Mental illnesses are becoming hugely normal. The way is not subscribing more drugs and making out new deseases and drugs. Look at the fundamental. The humans are losing themselves in which misery comes from. I know where this is coming from but will not tell.
 42. Edge computed AI without privacy concerns are already here
 43. You're witnessing the moment of building this era's Babel tower...
-44. Dead men say no words
+44. Dead peop say no words
