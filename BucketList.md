@@ -18,4 +18,5 @@
 4. Some people take advantage, while strange people pay for it. We would need an accessor of what fundamentally went wrong, and who's the one to pay for it. Why am I getting poorer to solve some other person' made problems? Tracking down the data shall guide us the way.
 5. Way of thinking : Assist people to think effectively to get meaningful results.
 6. To Do/Calendar with proper planning and plan revisionment
+7. A tool to meet wise agreements and encourages creativity.
 
