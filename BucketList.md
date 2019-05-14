@@ -23,4 +23,6 @@
 9. REST APIs to help make new applications
 10. Chatbot for my use(on tizen if possible)
 11. Development tools for my use(especially in my case I forget the very-specific logic flows so some software aiding me that part should help tremendeously)
-
+12. Music player and organizer(encoder if maybe)
+13. A guide for academic paper reading, it is still somewhat complicated to follow the multi dimentional web of interrelated papers. Some visualization would be great.
+14. A platform to exchange cryptocurrency.
