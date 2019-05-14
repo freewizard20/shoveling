@@ -49,3 +49,4 @@
 39. Technology is not the thing that will make humans distopia. It will be the humans to do it if ever.
 40. Make the decision making process clean and transparent. Handle it carefully. Use the collective intelligence for it. Make the proper tools to make it so. And enjoy a nice new era of happiness and hope
 41. Mental illnesses are becoming hugely normal. The way is not subscribing more drugs and making out new deseases and drugs. Look at the fundamental. The humans are losing themselves in which misery comes from. I know where this is coming from but will not tell.
+42. Edge computed AI without privacy concerns are already here
