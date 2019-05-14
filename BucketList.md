@@ -38,3 +38,5 @@
 14. A platform to exchange cryptocurrency(discover,curate,donate). with some freewizard coins to start lol
 15. wall of eternity : a simple blockchain that accepts text/links that last forever.
 16. A memo application with better organization, and able to host easily like on github.io
+17. A Planning tool to access importance so one can decide to change one's large plans flexibly, while maintaining the short, mid term plans (kind of) automatically. >> So that one can try out different plan forecasts to decide one wisely.
+18. The Planning - calendar - todo - note - time accessment - daily diary - all are able to meet at one application if made properly. To meet the natural flow of achieving final goals w/ continuous self-accessments also.
