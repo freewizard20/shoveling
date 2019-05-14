@@ -11,6 +11,13 @@
 8. A galaxy phone with bixby smart home available
 9. grammarly
 
+## Things to watch
+1. I/O 19 main topics
+2. OSS philosophies and design
+3. Web/Devops/Blockchain
+4. Tensorflow
+5. Topics on mathematics
+
 ## Things to make
 1. Day time accessor(time log and daily notes)
 2. Positive quotes and breathing/music/meditation
