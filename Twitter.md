@@ -35,3 +35,5 @@
 25. Go the easy way and there will be no harm.
 26. CENTRALIZATION AND DECENTRAILZATION : what is it? Can they co-exist? What is the natural natures of it? Is there a "right" one to pursue? Answer needs many bright minds but the time is too short as I might write on when I have the time to do so.
 27. Thinking from a top-down view, and thinking from the critical use cases and continuous meaning of it reveals many aspects of the actions that are taken..
+28. By watching at the paradigms of blockchain consensus algorithms, we may reflect on what we should do on meeting agreements(consensuses). The completely decentralized model is clearly inefficient, but definately right. It consumes very much resources. But as the computers evolve there came plenty of resources so we use browser engines in desktop applications, we may be able to do complete democracy with extra technology, time, and income.
+29. But beforehand as we observe sidechains and local consortiums also, those hierarchical decentralized(but somewhat ends as a centralized "MASTER" conclusion) decisions must also be made to abstract many issues and see what is debatable as a whole.
