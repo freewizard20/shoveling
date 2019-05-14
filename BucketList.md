@@ -15,4 +15,5 @@
 1. Day time accessor(time log and daily notes)
 2. Positive quotes and breathing/music/meditation
 3. Blog
+4. Some people take advantage, while strange people pay for it. We shall need an accessor of what fundamentally went wrong, and who's the one to pay for it. Why am I getting poorer to solve some other person' made problems? Tracking down the data shall guide us the way.
 
