@@ -14,3 +14,4 @@
 * Collectables
 * A new type of organization
 * All of above is decentralized.
+7. Beware of Centralization and value the slow but right. Slow but right might lose competition, but it never goes wrong.
