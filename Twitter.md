@@ -41,3 +41,4 @@
 31. Of course, It everyone just decides to sit down and do only investing, who's going to do the hard work? Well this part I decide not to mention.
 32. The world flows gently but without stopping. See where all it goes and you shall be rewarded with everything and a peace of mind.
 33. The physicist is the one nearest to God.
+34. And you think he's a stupid persion? Because he had silly like assumptions? Nothing would progress if at least of it. And what do you think who contributed the better?
