@@ -6,7 +6,7 @@
 4. Now, who wants some freewizard coins? ;)
 5. Not see the coins, see the meaning and possibilities of blockchain. It removes fraud and it is the "agreement(consortium) machine" to decide the "never changing trust" as it is the "trust machine". Use it well and you will earn the most wanted in history. It has the potential to prosper the local economy. Many communities will have their ..? . And decentralization will bring back value to the human how important and rare a person is.
 6. You can issue your coins as a matter of value, but also they can just be a medium of collections. Just as if you decided to donate to UNICEF. I was also related with that {{whatever}}. To say, the real intrinsic value of BITCOIN is the fact that you own a bitcoin. Too simple enough? You've got the historical coin. What else can you imagine? Imaginations will all become true.
-* An exchange of value
+* An exchange of value(Local or national, EVEN SUITABLE FOR YOUR FRIENDS.)
 * Commemorative coin
 * A new kind of revenue sharing methodology(especially when it binds with smart contracts)
 * A new kind of agreement-making voting right tokens
@@ -15,3 +15,4 @@
 * A new type of organization
 * All of above is decentralized.
 7. Beware of Centralization and value the slow but right. Slow but right might lose competition, but it never goes wrong.
+8. May not able to be say yet, but it gives back "The ultimate power" back to the (whatever describes you but not communism - I really don't even care about what it is because I`M NOT INTERESTED, SORRY). and that is where the world is going to.
