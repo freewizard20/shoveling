@@ -37,3 +37,4 @@
 13. A guide for academic paper reading, it is still somewhat complicated to follow the multi dimentional web of interrelated papers. Some visualization would be great.
 14. A platform to exchange cryptocurrency(discover,curate,donate). with some freewizard coins to start lol
 15. wall of eternity : a simple blockchain that accepts text/links that last forever.
+16. A memo application with better organization, and able to host easily like on github.io
