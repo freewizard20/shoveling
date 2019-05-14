@@ -43,3 +43,8 @@
 33. The physicist is the one nearest to God.
 34. And you think he's a stupid persion? Because he had silly like assumptions? Nothing would progress if at least of it. And what do you think who contributed the better?
 35. Imagining is not a silly thing. Imagining makes progress. No, seriously.
+36. as individuals make their mark on human history - dr. kaku
+37. Technology brings democracy to individuals, but you need to care it well to stay it right. Nothing comes for free. The web is very fragile from greedy and evil attempts. Guarding the liberty and democracy comes at the individual's enlightment and awareness. It is not an easy job. Everyone needs to be aware and needs to spend time for it. As it is for the individuals, there is no one to do the work for you. It's you that needs to be the avengers, not anyone else. [Net neurality](https://www.theguardian.com/technology/2014/jul/26/net-neutrality-dead-age-of-digital-discrimination-is-here). This is your tool of freedom. Take care of it well.
+38. Decentralization and power back to individuals. Just as democracy is designed to. Whatever not so was a technical lack. Not enough resources to do it. Now we can. We will be more able to do so.
+39. Technology is not the thing that will make humans distopia. It will be the humans to do it if ever.
+40. Make the decision making process clean and transparent. Handle it carefully.
