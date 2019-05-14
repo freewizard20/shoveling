@@ -1,7 +1,7 @@
 # BucketList
 
 ## Things to do
-1. 
+1. Debugging toolset on VS code, especially for JS/TS
 
 ## Things to buy
 1. Github subscription
@@ -19,7 +19,7 @@
 2. OSS philosophies and design
 3. Web/Devops/Blockchain
 4. Tensorflow
-5. Topics on mathematics
+5. Topics on mathematics/physics
 
 ## Things to make
 1. Day time accessor(time log and daily notes)
