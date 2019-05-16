@@ -1,4 +1,4 @@
-# Empower Yourself
+# Apps
 Selected list of applications that expands your possibilities
 
 ## Art
