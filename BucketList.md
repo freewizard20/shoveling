@@ -1,6 +1,6 @@
 # BucketList
 
-## Things to do
+## Things to do(Work related)
 1. Debugging toolset on VS code, especially for JS/TS
 
 ## Things to buy
@@ -20,6 +20,10 @@
 3. Web/Devops/Blockchain
 4. Tensorflow
 5. Topics on mathematics/physics
+
+## Places to go
+1. Buenos Aires, Argentina
+2. Montgomery, AL
 
 ## Things to make
 1. Day time accessor(time log and daily notes)
