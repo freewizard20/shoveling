@@ -20,6 +20,7 @@
 3. Web/Devops/Blockchain
 4. Tensorflow
 5. Topics on mathematics/physics
+6. Maybe coursera if affordable
 
 ## Places to go
 1. Buenos Aires, Argentina
