@@ -41,3 +41,4 @@
 17. A Planning tool to access importance so one can decide to change one's large plans flexibly, while maintaining the short, mid term plans (kind of) automatically. >> So that one can try out different plan forecasts to decide one wisely.
 18. The Planning - calendar - todo - note - time accessment - daily diary - all are able to meet at one application if made properly. To meet the natural flow of achieving final goals w/ continuous self-accessments also.
 19. Document creation software, automatic via source code change, re-build to text/whatever. descriptions input page also present but keep it simple.
+20. Essential features organized from github using API. (e.g. stars list)
