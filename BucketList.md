@@ -42,3 +42,4 @@
 18. The Planning - calendar - todo - note - time accessment - daily diary - all are able to meet at one application if made properly. To meet the natural flow of achieving final goals w/ continuous self-accessments also.
 19. Document creation software, automatic via source code change, re-build to text/whatever. descriptions input page also present but keep it simple.
 20. Essential features organized from github using API. (e.g. stars list)
+21. A programmer's spellbook organized with woking code examples and documentation. Better if able to call within editor. I forget the specific APIs whenever I context-switch to other languages reducing my productivity and restricting my freedom(you become more free as you know more).
