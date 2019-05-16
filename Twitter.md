@@ -70,3 +70,4 @@
 60. Most conflicts come from misunderstanding of diversity.
 61. History changes, but human nature dosen't change. The tools change which forms the society's change. Then does the human change? It's rather the social education and beliefs the person recieves which forms the person. The social situation changes fundamentally by the tools being used at that era. Rediscover history with that perspective. Tools always evolve. There were limitations on societies that resulted in that natural balance in the ages. So the future can be formed with our hands forming the proper rights and heading towards the right destination.
 62. We should not abandon capitalism at all cost. Improve it if at need, radical tries will not end well
+63. Disclosure : A new state of brain activity in the coming days are mostly not Insane/Idiotism. Interpret at extreme care. Even though Neuroscience is much more reliable, to so, it can be abused for misunderstanding and hate.
