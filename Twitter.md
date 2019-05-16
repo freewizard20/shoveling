@@ -67,3 +67,4 @@
 57. Without ICT, visiting somewhere would have been a lifetime's goal, which is now made so easy without the catastrophical consumption of energy and resources(Imagine everyone is very rich, and decides to travel to all places they would've been on the internet. What a pollution it would result, but this dosen't mean we should limit goods only to the limited rich, we can deliver it, hopefully even better, to the majority with extremly low energy and environmental cost.)
 58. Psychiatrists are saurons with An eyelid
 59. Through long courses of history, *idiotism and madness* was always used to [kill and hate each other](https://www.history.com/news/census-change-mental-illness-controversy). Mostly "mental illness" comes from misunderstanding of others or crucifying diversity such mostly deriving from self-centered thoughts.
+60. Most conflicts come from misunderstanding of diversity.
