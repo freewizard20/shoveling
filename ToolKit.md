@@ -1,4 +1,4 @@
-# Toolkit
+# ToolKit
 
 ## Languages
 * C++
@@ -6,16 +6,24 @@
 * Javascript(maybe some c# for .NET)
 
 ## DevOps(Server configurations and cluster management)
-* AWS for services, Google Cloud for Deep learning calculations, if needed
+* AWS(AWS-cli) for services, Google Cloud for Deep learning calculations, if needed
 * Kubernetes
 * Docker
 * Ansible
 
+## Continuous Integration
+* TravisCI
+* CircleCI
+
+## Editor
+* Vim
+* VS Code
+
 ## Testing
+
 
 ## Debugging
 
-## Continuous Integration
 
 ## Web frameworks
 * Frontend MVC framework - react, vue
@@ -27,17 +35,13 @@
 * Jest
 * ESLint
 
-## Cross-platform deployment
-* PWA
-* Electron
-
 ## Databases
 * Redis
 * MongoDB(noSQL - AWS dynamoDB)
 
-## Editor
-* Vim
-* VS Code
+## Cross-platform deployment
+* PWA
+* Electron
 
 ## Deep learning frameworks
 * Tensorflow
