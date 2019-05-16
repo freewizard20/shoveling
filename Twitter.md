@@ -52,3 +52,4 @@
 42. Edge computed AI without privacy concerns are already here
 43. You're witnessing the moment of building this era's Babel tower...
 44. Dead peop say no words
+45. Moving fast is essential for survival these days. But you also know moving fast can break things. What if you want quality and fast? - [from circleCI video](https://circleci.com/)
