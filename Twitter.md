@@ -78,4 +78,4 @@
 68. If we go wrong on this transition, there will be a lot of blood.
 69. The turbulence on financial statuses, and financial theories will need fundamental rethinking. The job lost people's rage might be misled by handful scammers to wrong destinations resulting hatred and misunderstanding of each other. We as people should be awake to reduce and decide what is right.
 70. The change will not come equally. Specific decisions should come as a society but better to let technology develop faster to end this inevitable pain earlier. Understand the circumstances and admit there will be changes. ---(specific ways are kept)
-71. I think people at 1850 will see me staring at the wall(screen) all day pretty crazy..(maybe not?). might be astonished or might be freaked with the things I can do with this thing
+71. I think people at 1850 will see me staring at the wall(screen) all day pretty crazy..(maybe not?). might be astonished or might be freaked with the things I can do with this thing. whatever, both of us might think of each other as strange/old fashioned
