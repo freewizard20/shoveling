@@ -37,6 +37,7 @@
 
 ## Databases
 * Redis
+* MySQL(mariaDB), AWS RDS
 * MongoDB(noSQL - AWS dynamoDB)
 
 ## Cross-platform deployment
