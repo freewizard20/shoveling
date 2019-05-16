@@ -54,4 +54,3 @@
 44. Dead peop say no words
 45. Moving fast is essential for survival these days. But you also know moving fast can break things. What if you want quality and fast. This allows you to find problems quickly, so when you do break things, they break small making for quick and easy fixes before it gets too big and serious. - [from circleCI video](https://circleci.com/)
 46. Platforms have paradoxes. As platforms grow, there are more free things given, but the general population gets poorer, resulting  less attraction to make platforms for the ordinaries.
-47. The next generation capitalism gives us time and finantial freedom.
