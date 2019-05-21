@@ -1,7 +1,9 @@
 # BucketList
 
 ## Things to do(Work related)
-1. Debugging toolset on VS code, especially for JS/TS
+1. Debugging toolset on VS code, especially for JS/TS - make something with JS
+2. Smarter web information retreival toolset(including some ML/CV) with python
+3. Closure for future-proof programming
 
 ## Things to buy
 1. Github subscription
