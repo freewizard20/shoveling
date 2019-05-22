@@ -52,3 +52,5 @@
 21. A programmer's spellbook organized with woking code examples and documentation. Better if able to call within editor. I forget the specific APIs whenever I context-switch to other languages reducing my productivity and restricting my freedom(you become more free as you know more).
 22. A programmer's toolkit list easily manageable
 23. My personal musical instrument available on laptop, with keyboard relocation available and modules(multiple coords with one stroke) and different instrumental sounds ready. To make my programming laptop itself an instrument
+24. A software to generate auto game assets(especially characters)
+25. speech to text software to organize the meeting's or conversation's contents.
