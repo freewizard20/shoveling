@@ -111,4 +111,4 @@
 98k. 내가 하는 말이 그래 미친놈처럼 들립니까? \
 99k. 한글로도 여기까지가 끝입니다. \
 100. This is one-hundred
-101. We really need to do more on edge. Making it efficient is essential and it is possible!
+101. We really need to do more on edge. Making it efficient is essential and Yes it is possible(but terribly difficult, I have to admit)! Research on these fields will greately impact products and get great interest.
