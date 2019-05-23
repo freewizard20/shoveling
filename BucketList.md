@@ -54,3 +54,4 @@
 23. My personal musical instrument available on laptop, with keyboard relocation available and modules(multiple coords with one stroke) and different instrumental sounds ready. To make my programming laptop itself an instrument
 24. A software to generate auto game assets(especially characters)
 25. speech to text software to organize the meeting's or conversation's contents.
+26. A speech recognition called by a customized call to automatically record and print to text then end with a specific magic word or something.(end text or something)
