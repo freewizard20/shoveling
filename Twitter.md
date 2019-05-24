@@ -113,4 +113,4 @@
 100. This is one-hundred \
 101. We really need to do more on edge(for many reasons). Making it efficient is essential and Yes it is possible(but terribly difficult, I have to admit)! Research on these fields will greately impact products and get great interest.
 102. It is really good when the users can feel they're connected with the service providers any time by such as easy feedback, whatevers.
-103. 
+103. The internet needs anonimity same as auth because the world needs whistleblowers - somewhat similar words remembered from Vint Cerf's talk
