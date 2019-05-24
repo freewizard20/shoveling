@@ -107,10 +107,10 @@
 95. My mind is heavy to do such, but there are things in the world that need to be done to stop more hate and distruction. Everyone now will be aware of what that COCHAROCH has done(go listen to the people that have been involved if needed so. The COCHAROCH WILDFIRED the whole Seoul National University - which is proud to be in South Korea - just to fraud a girl to fulfill his animal instincts) and so many innocent victims has come and gone. I hope all truth must be revealed and the COCHAROCH's crazy BS stops here. And all people go live their free and happy lives.
 96. The man will bring great harms to your lands, so I must strongly declare to all of you NOT TO TRUST THE SCAMMER and don't play by his books. It will end in great disaster and evil. [Do Hyun Baek](https://www.facebook.com/profile.php?id=100008152999198) IS A BIG WILDFIRE SCAMMER WHO NEEDS GREAT CAUTION AND SURVEILLENCE.
 97. That is all.
-97k. 쓰레기를 하나 사랑으로 옹호하다가 실수를 한 것은 모두가 이해할 수 있는 사실입니다. 그 쓰레기를 명확히 규정하고, 그 쓰레기가 올바르게 사과하며, 다시는 재발하지 않게 올바르게 처벌하고, 그것을 솔직히 사실대로 공표하는 것 만이 앞으로 나아갈 수 있는 유일한 방법입니다. 개인적으로는 가장 올바르게 이 불장난을, 그리고 우리가 그 불장난에 정말 무식하게 놀아났다는 사실을 용서 받으려면 백도비를 산 채로 묻어서 위에 나무를 심는 강경책말고는 후환이 돌아올 것을 알 고 있지만 강요하지는 않겠습니다. \
-98k. 내가 하는 말이 그래 미친놈처럼 들립니까? \
-99k. 한글로도 여기까지가 끝입니다. \
-100. This is one-hundred \
+97k. 쓰레기를 하나 사랑으로 옹호하다가 실수를 한 것은 모두가 이해할 수 있는 사실입니다. 그 쓰레기를 명확히 규정하고, 그 쓰레기가 올바르게 사과하며, 다시는 재발하지 않게 올바르게 처벌하고, 그것을 솔직히 사실대로 공표하는 것 만이 앞으로 나아갈 수 있는 유일한 방법입니다. 개인적으로는 가장 올바르게 이 불장난을, 그리고 우리가 그 불장난에 정말 무식하게 놀아났다는 사실을 용서 받으려면 백도비를 산 채로 묻어서 위에 나무를 심는 강경책말고는 후환이 돌아올 것을 알 고 있지만 강요하지는 않겠습니다.\
+98k. 내가 하는 말이 그래 미친놈처럼 들립니까?\
+99k. 한글로도 여기까지가 끝입니다.\
+100. This is one-hundred\
 101. We really need to do more on edge(for many reasons). Making it efficient is essential and Yes it is possible(but terribly difficult, I have to admit)! Research on these fields will greately impact products and get great interest.
 102. It is really good when the users can feel they're connected with the service providers any time by such as easy feedback, whatevers.
 103. The internet needs anonimity same as auth because the world needs whistleblowers - somewhat similar words remembered from Vint Cerf's talk
