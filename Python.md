@@ -1,7 +1,6 @@
 # Python
 
-Life is short. You need python
-- [vinta](https://awesome-python.com/)
+Life is short. You need python - [vinta](https://awesome-python.com/)
 
 ## Useful Modules
 
