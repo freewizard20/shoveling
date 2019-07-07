@@ -1,0 +1,4 @@
+# CPP
+
+## Coding conventions
+* camelcase
