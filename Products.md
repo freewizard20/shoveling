@@ -25,3 +25,10 @@
 24. A software to generate auto game assets(especially characters)
 25. speech to text software to organize the meeting's or conversation's contents.
 26. A speech recognition called by a customized call to automatically record and print to text then end with a specific magic word or something.(end text or something)
+27. Awesome lists of PWAs with an immediate run(password integration)
+28. End-to-end solution based collaborative intelligence method
+29. Graphical toolkit to assemble python modules(This will eventually be stronger than scratch and will be the meeting point from GUI coding to CLI)
+30. Quote logger(with cloud backup)
+31. Crypto address generator
+32. Web personalization on shared PCs with URL/password(something that looks like a browser in browser for one time computers. chrome should probably do it sometime soon though)
+33. Inventions to consumers have a curation(end-to-end solutions) bottleneck
