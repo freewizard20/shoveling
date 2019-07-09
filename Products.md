@@ -31,4 +31,4 @@
 30. Quote logger(with cloud backup)
 31. Crypto address generator
 32. Web personalization on shared PCs with URL/password(something that looks like a browser in browser for one time computers. chrome should probably do it sometime soon though)
-33. Inventions to consumers have a curation(end-to-end solutions) bottleneck
+33. Inventions to consumers have a curation(end-to-end solutions) bottleneck >> platforms, smart factories will recieve orders
