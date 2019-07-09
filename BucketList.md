@@ -1,33 +1,3 @@
-# BucketList
-
-## Things to do(Work related)
-1. Debugging toolset on VS code, especially for JS/TS - make something with JS
-2. Smarter web information retreival toolset(including some ML/CV) with python
-3. Clojure for future-proof programming
-
-## Things to buy
-1. Github subscription
-2. aws c9 subscription
-3. youtube premium
-4. a music streaming site
-5. netflix
-6. medium subscription
-7. A chromebook
-8. A galaxy phone with bixby smart home available
-9. grammarly
-
-## Things to watch
-1. I/O 19 main topics
-2. OSS philosophies and design
-3. Web/Devops/Blockchain
-4. Tensorflow
-5. Topics on mathematics/physics
-6. Maybe coursera if affordable
-
-## Places to go
-1. Buenos Aires, Argentina
-2. Montgomery, AL
-
 ## Things to make
 1. Day time accessor(time log and daily notes)
 2. Positive quotes and breathing/music/meditation
