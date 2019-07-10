@@ -13,6 +13,7 @@
 | 0707 | O | O | restart on algo, fixed pelican blog | basic algorithm implementations on c++, python |
 | 0708 | .3 | O | customizing pelican blog | algorithms first, blog deployment complete |
 | 0709 | O | O | developed work and life process | restructure algorithm repo |
+| 0710 | .5 | X | organized algorithm repo | blog fix |
 
 
 ## August, 2019
