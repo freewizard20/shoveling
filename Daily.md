@@ -1,7 +1,7 @@
 # Daily
 
 ## July, 2019
-* The goal is to solve at least 2 algorithm problems a day
+* Solve at least 2 algorithm problems before doing anything
 * And have at least a hour of excercise a day
 * Go through all basic algorithms, Implement and practice, then gather and learn the best patterns.
 * Implement both on python and C++
@@ -15,6 +15,7 @@
 | 0709 | O | O | developed work and life process | restructure algorithm repo |
 | 0710 | .5 | X | organized algorithm repo | blog fix |
 | 0711 | O | 0.5 | - | - |
+| 0712 | X | O | CV crash course 1-3 | Algorithms first, Python Basics |
 
 
 ## August, 2019
