@@ -16,6 +16,7 @@
 | 0710 | .5 | X | organized algorithm repo | blog fix |
 | 0711 | O | 0.5 | - | - |
 | 0712 | X | O | CV crash course 1-3 | Algorithms first, Python Basics |
+| 0713 | X | X | CV 4 | CV & Python |
 
 
 ## August, 2019
