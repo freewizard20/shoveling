@@ -17,6 +17,7 @@
 | 0711 | O | 0.5 | - | - |
 | 0712 | X | O | CV crash course 1-3 | Algorithms first, Python Basics |
 | 0713 | X | X | CV 4 | CV & Python |
+| 0714 | X | X | ethical issues on future | vacation |
 
 
 ## August, 2019
