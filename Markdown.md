@@ -16,5 +16,12 @@
 `\`
 
 ## tables
+```
+| index1 | index2 | index3 |
+| --- | :--- | :---: |
+| asd | asd2 | asd3 |
+```
+
+| index1 | index2 | index3 |
 | --- | :--- | :---: |
 | asd | asd2 | asd3 |
