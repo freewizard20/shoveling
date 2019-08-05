@@ -29,3 +29,22 @@ io.sockets.on('connection',socket()=>{
 
 
 ### 클라이언트
+
+```
+var socket = io()
+// connection
+socket.on('connect', function(){
+    if(!name) name="sam"
+    socket.emit('newUser',name)
+})
+socket.on('update',function(data){
+    console.log(data)
+})
+function send(){
+    var message = document.getElementById('test').value
+    document.getElementById('test').value =''
+    socket.emit('message',{type:'message',message:message})
+}
+```
+
+
