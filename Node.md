@@ -21,3 +21,10 @@ var cal = require('./lib/calculator.js');
 console.log(cal.sum(1, 2));
 console.log(cal.avg(1, 3));
 ```
+
+## selective arguments
+
+```
+controller.mouseClick(button="left", double="true");
+```
+
